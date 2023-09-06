@@ -1,2 +1,2 @@
-# 7-9-2023
-7/9/2023 opgave
+"Ferdinand" 
+"cph-fv49@cphbusiness.dk"
