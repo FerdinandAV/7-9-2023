@@ -1,0 +1,14 @@
+String name = "Ferdinand";
+int age = 19;
+boolean happy = false;
+
+
+println("Hi, My name is " + name);
+println("I am " + age + " years old");
+
+if (happy==true) {
+println("I clap my hands" );
+}
+else if (happy==false) {
+println("I don't clap my hands");
+}
