@@ -3,9 +3,7 @@ void setup() {
   methodTwo(); 
 }
 
-/*
-  The following method has an error in it. Fix the error and run it. 
-*/
+//The following method has an error in it. Fix the error and run it. 
 
 void methodOne()
 {
@@ -19,8 +17,7 @@ println(output);
 }
  
 }
-
-/* 
+/*
   Finish the following method so that we can change the number assigned 
   to the weekday and it prints the correct output.  
 */

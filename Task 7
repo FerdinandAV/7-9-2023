@@ -1,0 +1,9 @@
+for (int input = 20;input>=0;input-=1){ 
+if(input==6 || input==-6){
+  println("SIX");
+continue;}
+if(input==10 || input==-10){
+println("HALF!");
+continue;}
+  println(input);
+}
