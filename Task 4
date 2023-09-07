@@ -1,0 +1,30 @@
+// 4.a
+for (int x = 0;x<=20;x+=1){
+  println(x);
+}
+//4.b
+for (int x = 0;x<=20;x+=2){
+  println(x);
+}
+//4.c
+for (int start = 20;start>3;start-=1){
+  println(start);
+}
+println("Three");
+println("Two");
+println("One");
+println("Take Off!");
+//4.d
+int x = 0;
+int numbers = 20;
+while(x<=numbers) {
+println(x);
+  x+=2;
+}
+//4.e
+int x = 20;
+int numbers = 0;
+while(x>=numbers) {
+println(x);
+  x-=1;
+}
